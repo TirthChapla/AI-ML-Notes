@@ -39,3 +39,7 @@
 
 - we kept the retraining period of 24 hours 
 - and some news like de-Monetization happen then we get the update in modal after 24 hours
+
+
+
+![img_1.png](img_1.png)
