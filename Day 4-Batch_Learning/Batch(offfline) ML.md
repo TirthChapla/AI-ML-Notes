@@ -1,4 +1,4 @@
-# Batch / Offline Machine Learning 
+# Day 4 : Batch / Offline Machine Learning 
 
 ----------------
 - We are training the Modal at the development level.

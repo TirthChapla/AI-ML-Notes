@@ -1,4 +1,4 @@
-# Online Learning 
+# Day 5 : Online Learning 
 
 - defined as the process of training a machine learning model incrementally by feeding it data in small batches or one at a time, allowing it to learn and adapt continuously over time.
 - We here some were that when you use our modal, it will learn from the data and improve its performance.
